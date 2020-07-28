@@ -1,0 +1,7 @@
+com\amazon\ask\helloworldservlet\handlers\HelpIntentHandler.class
+com\amazon\ask\helloworldservlet\handlers\CancelandStopIntentHandler.class
+com\amazon\ask\helloworldservlet\handlers\SessionEndedRequestHandler.class
+com\amazon\ask\helloworldservlet\handlers\LaunchRequestHandler.class
+com\amazon\ask\helloworldservlet\handlers\HelloWorldIntentHandler.class
+com\amazon\ask\helloworldservlet\handlers\FallbackIntentHandler.class
+com\amazon\ask\helloworldservlet\HelloWorldSkillServlet.class
